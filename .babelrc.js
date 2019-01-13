@@ -20,5 +20,5 @@ module.exports = {
       },
     ],
     'react-loadable/babel',
-  ].filter(Boolean),
+  ].filter(Boolean)
 }
